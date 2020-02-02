@@ -24,7 +24,6 @@ h1 {
   width: 30%;
   padding: 10px;
   margin: 0 auto;
-  color: #26622B;
 }
 h1, img, a {
   border: solid;
@@ -44,8 +43,11 @@ p {
 a {
   width: 30%;
   text-decoration: none;
-  color: #26622B;
   margin: 0 auto;
+	color: #000;
+}
+a:hover {
+	color : #529815;
 }
 img {
   width: 330px;
