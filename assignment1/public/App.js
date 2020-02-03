@@ -14,6 +14,6 @@ component = React.createElement("img", {
 ReactDOM.render(component, imageNode);
 var linkNode = document.getElementById('url');
 component = React.createElement("a", {
-  href: "images/Atul.jpeg"
+  href: "https://github.com/dokiatul/fullStack"
 }, "VEIW MY GITHUB REPO");
 ReactDOM.render(component, linkNode);
